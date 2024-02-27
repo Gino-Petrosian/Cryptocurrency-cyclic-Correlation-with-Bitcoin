@@ -1,1 +1,3 @@
-# Cryptocurrency-cyclic-Correlation-with-Bitcoin
+# Free Form Analysis
+
+ Cryptocurrency cyclic correlation analysis with Bitcoin
